@@ -1388,6 +1388,16 @@ fd ed | cA Ad | c/B/A GE | D2 D2 :|
 %%scale .75
 %%staffsep 35
 
+X:415
+T:Drops of Brandy
+M:9/8
+L:1/8
+R:Slip Jig
+K:Dmix
+d2B BAB BAB | d2B BAB cBA | d2B BAB BAB | cBc A2B cBA :|
+|: GBd gdB gdB | GBd gdB cBA |1 GBd gdB gdB | cBc A2B cBA :|
+|2 GBd gba g2B | cBc A2B cBA | 
+
 X: 1
 T: Hardiman The Fiddler
 R: slip jig
